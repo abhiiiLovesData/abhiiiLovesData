@@ -1,4 +1,4 @@
-
+<div style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); color: white; padding: 40px; border-radius: 20px;">
 <h1 align="center">Hi 👋, I'm Abhishek Sonawane</h1>
 <h3 align="center">Data Scientist | AI/ML Enthusiast | Building Real-world AI Projects</h3>
 
@@ -100,3 +100,4 @@ Hands-on experience in building and deploying ML models for real-world use cases
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhiiiLovesData&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
+</div>
