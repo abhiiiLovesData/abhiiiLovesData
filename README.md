@@ -1,83 +1,84 @@
-<!-- Advanced GitHub Profile README for abhiiiLovesData (AI + Data Science Edition) -->
-
 <h1 align="center">Hi 👋, I'm Abhishek Sonawane</h1>
-<h3 align="center">🚀 Data Scientist | ML Engineer | AI Enthusiast</h3>
+<h3 align="center">Data Scientist | AI/ML Enthusiast | Building Real-world AI Projects</h3>
 
 <p align="center">
-  <a href="mailto:sonawaneabhishek034@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abhishek-sonawane-07a409320/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/abhiiiLovesData">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/abhithenext/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  <a href="mailto:sonawaneabhishek034@gmail.com"><img src="https://img.shields.io/badge/Email-blue?style=flat&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/abhishek-sonawane-07a409320/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://github.com/abhiiiLovesData"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" /></a>
+  <a href="https://www.instagram.com/abhithenext/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1Vkrg7-eY8AAiuT_AbwZzY3A_vOiAjVvW/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-blueviolet?style=flat&logo=google-drive" /></a>
 </p>
 
 ---
 
-### 🧠 About Me  
-- 🔭 Currently working on **Machine Learning and AI-based projects**  
-- 🌱 Learning **Deep Learning, NLP, and Generative AI**  
-- 💬 Ask me about **Machine Learning, Data Analysis, Model Optimization, and AI Systems**  
-- 🎯 Goal: Build scalable **AI-powered intelligent applications**  
-- ⚡ Fun fact: I love transforming **raw data into real insights** 📊  
+### 🧩 About Me
+- 🌱 Currently learning **Machine Learning, Deep Learning, and Data Analysis**
+- 💼 ML Intern at **Pratinik Infotech**
+- 🎯 Building **AI-based projects** like trading apps, data dashboards & intelligent APIs  
+- 🧠 Passionate about turning raw data into powerful insights  
+- 📫 Reach me at **sonawaneabhishek034@gmail.com**
 
 ---
 
-### 🧩 Tech Stack & Tools
+### 🧠 Skills
+#### 🧮 Data Science & ML
+`Python` • `NumPy` • `Pandas` • `Scikit-learn` • `Seaborn` • `Matplotlib` • `EDA` • `Feature Engineering`
+
+#### 🗃️ Tools & Technologies
+`SQL` • `Flask` • `Postman` • `Git` • `GitHub` • `Jupyter Notebook`
+
+---
+
+### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,flask,fastapi,mysql,git,github,vscode,postman&theme=dark" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhiiiLovesData&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiiiLovesData&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhiiiLovesData&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+### 🧪 Projects
+🚀 **[Bangalore House Price Prediction](#)**  
+Predicts house prices using regression models and EDA with 90%+ accuracy.  
+*Tech:* Python, Flask, Postman, EDA  
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhiiiLovesData&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiiiLovesData&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiiiLovesData&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+🩺 **[Heart Disease Prediction](#)**  
+Used Logistic Regression & Random Forest achieving 88% accuracy.  
+*Tech:* Python, Scikit-learn, Seaborn  
 
 ---
 
-### 🧬 Machine Learning Projects
-| 🔹 Project | 💡 Description | 🧰 Tech |
-|-------------|----------------|---------|
-| 🏠 **[Bangalore House Price Prediction](https://github.com/abhiiiLovesData/house-price-predictor)** | ML model to predict house prices with ~90% accuracy | Python, Scikit-learn, Flask |
-| ❤️ **[Heart Disease Prediction](https://github.com/abhiiiLovesData/heart-disease-ml)** | Predicts heart disease risk using classification models | Pandas, Seaborn, Random Forest |
-| 💬 **Sentiment Analysis System** | Analyzes text sentiment using NLP models | Python, NLTK, Transformers |
+### 🏅 Certifications
+
+📘 [**J.P. Morgan – Quantitative Research (Forage)**](https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/bWqaecPDbYAwSDqJy_Sj7temL583QAYpHXD_s8ipN3KNyNkomW7EN_1758532211977_completion_certificate.pdf)  
+Explored pricing data, credit risk, and FICO score modeling.  
+
+📊 [**Lloyds Banking Group – Data Science (Forage)**](https://www.theforage.com/completion-certificates/Zbnc2o4ok6kD2NEXx/EuvC8GPjkZ6xaiP9p_Zbnc2o4ok6kD2NEXx_s8ipN3KNyNkomW7EN_1754054553594_completion_certificate.pdf)  
+Worked on EDA, data cleaning, and ML model building.  
+
+💻 [**Internship – Pratinik Infotech**](#)  
+Worked on real-world ML model integration and performance optimization.
+
+📄 [**My Resume**](https://drive.google.com/file/d/1Vkrg7-eY8AAiuT_AbwZzY3A_vOiAjVvW/view?usp=sharing)
 
 ---
 
-### 🏆 Certifications
-
-| 📘 Certification | 🏢 Organization | 🔗 Link |
-|------------------|----------------|--------|
-| **Quantitative Research Virtual Internship** | J.P. Morgan | [🔗 View Certificate](https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/bWqaecPDbYAwSDqJy_Sj7temL583QAYpHXD_s8ipN3KNyNkomW7EN_1758532211977_completion_certificate.pdf) |
-| **Data Science Virtual Internship** | Lloyds Banking Group | [🔗 View Certificate](https://www.theforage.com/completion-certificates/Zbnc2o4ok6kD2NEXx/EuvC8GPjkZ6xaiP9p_Zbnc2o4ok6kD2NEXx_s8ipN3KNyNkomW7EN_1754054553594_completion_certificate.pdf) |
-| **Data Analytics Foundations** | Google | [🔗 Coming Soon](#) |
-
----
-
-### 📈 Contribution Graph
+### 📊 Languages Used
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiiiLovesData&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiiiLovesData&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🧠 Currently Learning
-```text
-Deep Learning (DL)     ██████████░░░░░░░░ 75%
-Natural Language Proc.  ████████░░░░░░░░░░ 60%
-Generative AI (LLMs)    █████████░░░░░░░░░ 70%
+### 🧭 Fun Section
+> “Data is the new oil, but only if refined.”  
+> — *Abhishek Sonawane*
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhiiiLovesData&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
