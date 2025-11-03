@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Abhishek%20Sonawane%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38" />
-</p>
+
 <div style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); color: white; padding: 40px; border-radius: 20px;">
 <h1 align="center">Hi 👋, I'm Abhishek Sonawane</h1>
 <h3 align="center">Data Scientist | AI/ML Enthusiast | Building Real-world AI Projects</h3>
