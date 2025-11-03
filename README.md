@@ -14,31 +14,35 @@
 ### 🧩 About Me
 - 🌱 Currently learning **Machine Learning, Deep Learning, and Data Analysis**
 - 💼 ML Intern at **Pratinik Infotech**
-- 🎯 Building **AI-based projects** like trading apps, data dashboards & intelligent APIs  
-- 🧠 Passionate about turning raw data into powerful insights  
+- 🎯 Building **AI-powered projects** like trading apps, E-learning platforms & intelligent APIs  
+- 🧠 Passionate about transforming **data into real-world insights**  
 - 📫 Reach me at **sonawaneabhishek034@gmail.com**
 
 ---
 
-### 🧠 Skills
-#### 🧮 Data Science & ML
-`Python` • `NumPy` • `Pandas` • `Scikit-learn` • `Seaborn` • `Matplotlib` • `EDA` • `Feature Engineering`
+### 💻 Tech Stack & Skills
 
-#### 🗃️ Tools & Technologies
-`SQL` • `Flask` • `Postman` • `Git` • `GitHub` • `Jupyter Notebook`
+#### 🧠 Machine Learning & AI
+`Python` • `NumPy` • `Pandas` • `Scikit-learn` • `TensorFlow` • `Keras` • `OpenCV` • `EDA` • `Feature Engineering` • `Model Evaluation`  
+
+#### 📊 Data Science & Analytics
+`Data Preprocessing` • `Visualization (Matplotlib, Seaborn, Plotly)` • `Hypothesis Testing` • `Regression & Classification` • `Statistical Analysis`  
+
+#### ⚙️ Tools & Technologies
+`SQL` • `Flask` • `Postman` • `Git` • `GitHub` • `Jupyter Notebook` • `Google Colab` • `VS Code`  
+
+#### ☁️ Others
+`API Integration` • `Data Cleaning` • `Model Deployment` • `Version Control` • `Excel for Analytics`
 
 ---
 
-### 📈 GitHub Analytics
+### 💼 Internship Experience
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhiiiLovesData&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiiiLovesData&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhiiiLovesData&theme=react-dark&hide_border=true" />
-</p>
+#### 🧑‍💻 **Machine Learning Intern — Pratinik Infotech** *(Aug 2025 – Present)*
+- 🧩 Cleaned and processed large datasets to extract actionable insights.  
+- 🤖 Built and optimized ML models (Regression, Classification) improving prediction accuracy by 25%.  
+- 🔗 Integrated trained models into production APIs, enhancing system decision accuracy by 30%.  
+- 📊 Collaborated with developers and analysts to build scalable data-driven solutions.  
 
 ---
 
@@ -62,9 +66,22 @@ Explored pricing data, credit risk, and FICO score modeling.
 Worked on EDA, data cleaning, and ML model building.  
 
 💻 [**Internship – Pratinik Infotech**](#)  
-Worked on real-world ML model integration and performance optimization.
+Hands-on experience in building and deploying ML models for real-world use cases.
 
 📄 [**My Resume**](https://drive.google.com/file/d/1Vkrg7-eY8AAiuT_AbwZzY3A_vOiAjVvW/view?usp=sharing)
+
+---
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhiiiLovesData&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiiiLovesData&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhiiiLovesData&theme=react-dark&hide_border=true" />
+</p>
 
 ---
 
